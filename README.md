@@ -1,4 +1,4 @@
-![image](https://github.com/aRUsh-codes/Superhero-U-Ad-Campaign/assets/98696069/492b365c-35f5-4e61-bd6b-d0218963a0d3)# Superhero-U-Ad-Campaign
+# Superhero-U-Ad-Campaign
 Superhero U by Globalshala empowers students to be community superheroes. With workshops, activities, and networking, it fosters leadership, social entrepreneurship, and tackling global issues. It unleashes students' potential, connecting them with mentors and peers, fostering impactful change.
 
 # My PowerBI Dashboard
